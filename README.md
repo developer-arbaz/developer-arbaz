@@ -10,6 +10,13 @@ I am a passionate **Data Analyst** with a knack for uncovering insights through 
 - **Database Management:** MySQL, SQL Server, pgAdmin 4
 - **Other Tools:** Google Workspace (Docs, Sheets, Slides), Jupyter Notebook
 
+### 🌟 Certifications
+- ReactJS & Redux - Udemy
+- Python for Data Science - XIE
+- Command Line in Linux - Coursera
+- Microsoft AI Classroom - Microsoft
+- NodeJS with Express & MongoDB - Udemy
+
 ## 💼 My Portfolio Projects
 Here are some of the projects that showcase my skills and expertise:
 
@@ -38,6 +45,16 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** Power BI, Data Modeling
 - **Dashboard:** Detailed insights into patient demographics and billing efficiency.
 
+### 6. [RFM Customer Segmentation Dashboard](https://github.com/developer-arbaz/rfm-dashboard)
+- **Description:** Designed a dashboard showcasing the segmentation of customers based on Recency, Frequency, and Monetary value, providing actionable insights for targeted marketing.
+- **Skills Used:** Python, pandas, Power BI
+- **Dashboard:** Interactive visualizations to understand customer behaviors.
+
+### 7. [Global Population Growth Analysis](https://github.com/developer-arbaz/population-growth-dashboard)
+- **Description:** Analyzed simulated global population growth rates and visualized trends across cities for 2024.
+- **Skills Used:** Power BI, Excel, Data Modeling
+- **Dashboard:** Engaging Power BI dashboards displaying growth metrics and key insights.
+
 ## 🌱 What I’m Currently Learning
 - Advanced Data Modeling
 - Machine Learning for Data Analysts
@@ -52,5 +69,6 @@ Here are some of the projects that showcase my skills and expertise:
 - Completed Accenture North America's Data Analytics and Visualization on Forage.
 - Developed intuitive Power BI dashboards for businesses like Apollo Hospitals and Madhav Store.
 - Solved real-world business problems using SQL, Power BI, and Python.
+- Created dashboards that provide actionable insights for diverse industries.
 
 ### 🌟 Let’s collaborate on exciting data projects and turn numbers into narratives! 🚀
