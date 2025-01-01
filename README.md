@@ -43,11 +43,6 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** Python, pandas, Power BI
 - **Dashboard:** Interactive visualizations to understand customer behaviors.
 
-### 7. [Global Population Growth Analysis](https://github.com/developer-arbaz/population-growth-dashboard)
-- **Description:** Analyzed simulated global population growth rates and visualized trends across cities for 2024.
-- **Skills Used:** Power BI, Excel, Data Modeling
-- **Dashboard:** Engaging Power BI dashboards displaying growth metrics and key insights.
-
 ## 🌱 What I’m Currently Learning
 - Advanced Data Modeling
 - Machine Learning for Data Analysts
