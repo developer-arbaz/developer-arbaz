@@ -10,13 +10,6 @@ I am a passionate **Data Analyst** with a knack for uncovering insights through 
 - **Database Management:** MySQL, SQL Server, pgAdmin 4
 - **Other Tools:** Google Workspace (Docs, Sheets, Slides), Jupyter Notebook
 
-### 🌟 Certifications
-- ReactJS & Redux - Udemy
-- Python for Data Science - XIE
-- Command Line in Linux - Coursera
-- Microsoft AI Classroom - Microsoft
-- NodeJS with Express & MongoDB - Udemy
-
 ## 💼 My Portfolio Projects
 Here are some of the projects that showcase my skills and expertise:
 
