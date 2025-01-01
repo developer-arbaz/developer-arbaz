@@ -15,7 +15,6 @@ I am a passionate **Data Analyst** with a knack for uncovering insights through 
 - Python for Data Science - XIE
 - Command Line in Linux - Coursera
 - Microsoft AI Classroom - Microsoft
-- NodeJS with Express & MongoDB - Udemy
 
 ## 💼 My Portfolio Projects
 Here are some of the projects that showcase my skills and expertise:
