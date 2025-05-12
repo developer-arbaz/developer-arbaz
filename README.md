@@ -42,7 +42,10 @@ Here are some of the projects that showcase my skills and expertise:
 - **Description:** Designed a dashboard showcasing the segmentation of customers based on Recency, Frequency, and Monetary value, providing actionable insights for targeted marketing.
 - **Skills Used:** Python, pandas, Power BI
 - **Dashboard:** Interactive visualizations to understand customer behaviors.
-
+### 7. Yelp-Restaurant-Data-Analysis-Project
+- **Description:** Analyzed Yelp restaurant data to identify key trends in customer reviews, ratings, and popular cuisines, helping businesses understand performance and customer preferences across locations.
+- **Skills Used:** Python, pandas, Matplotlib, Seaborn, Power BI
+- **Dashboard:** Visual insights on top-rated restaurants, most-reviewed categories, and city-wise restaurant performance.
 ## 🌱 What I’m Currently Learning
 - Advanced Data Modeling
 - Machine Learning for Data Analysts
