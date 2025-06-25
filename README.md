@@ -13,7 +13,7 @@ I am a passionate **Data Analyst** with a knack for uncovering insights through 
 ## 💼 My Portfolio Projects
 Here are some of the projects that showcase my skills and expertise:
 
-### 1. [Netflix Data Analysis](https://github.com/developer-arbaz/netflix-analysis)
+### 1. [Netflix Data Analysis](https://github.com/developer-arbaz/netflix_sql_project.git)
 - **Description:** Analyzed content distribution, ratings, release years, and other trends using SQL and pgAdmin 4.
 - **Skills Used:** SQL, Data Analysis, Visualization
 - **Dashboard:** Interactive SQL-based visualizations on audience metrics.
