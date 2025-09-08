@@ -33,7 +33,7 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** SQL, Power BI, Data Analysis
 - **Dashboard:** Comprehensive Power BI dashboards for ride volume and booking trends.
 
-### 5. [Apollo Hospitals Dashboard](https://github.com/developer-arbaz/apollo-hospitals-dashboard)
+### 5. [Apollo Hospitals Dashboard](https://github.com/developer-arbaz/Apollo_Hospitals-Deshboard.git)
 - **Description:** Developed a Power BI dashboard analyzing patient data, billing information, and bed occupancy rates.
 - **Skills Used:** Power BI, Data Modeling
 - **Dashboard:** Detailed insights into patient demographics and billing efficiency.
