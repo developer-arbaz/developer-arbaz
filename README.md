@@ -23,7 +23,7 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** Power BI, Data Cleaning, DAX
 - **Dashboard:** Dynamic dashboards highlighting sales trends and revenue performance.
 
-### 3. [Customer Segmentation](https://github.com/developer-arbaz/customer-segmentation)
+### 3. [Customer Segmentation](https://github.com/developer-arbaz/Customer-Segmentation--RFM_Analysis_Python.git)
 - **Description:** Performed RFM analysis to identify valuable customer segments and create targeted marketing strategies.
 - **Skills Used:** Python (pandas, NumPy), Data Visualization
 - **Dashboard:** Visualized customer behavior and purchasing patterns with Python.
