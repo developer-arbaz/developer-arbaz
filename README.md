@@ -23,7 +23,7 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** Power BI, Data Cleaning, DAX
 - **Dashboard:** Dynamic dashboards highlighting sales trends and revenue performance.
 
-### 3. [Customer Segmentation](https://github.com/developer-arbaz/Customer-Segmentation--RFM_Analysis_Python.git)
+### 3. [RFM Customer Segmentation Dashboard](https://github.com/developer-arbaz/Customer-Segmentation--RFM_Analysis_Python.git)
 - **Description:** Performed RFM analysis to identify valuable customer segments and create targeted marketing strategies.
 - **Skills Used:** Python (pandas, NumPy), Data Visualization
 - **Dashboard:** Visualized customer behavior and purchasing patterns with Python.
@@ -38,12 +38,7 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** Power BI, Data Modeling
 - **Dashboard:** Detailed insights into patient demographics and billing efficiency.
 
-### 6. [RFM Customer Segmentation Dashboard](https://github.com/developer-arbaz/rfm-dashboard)
-- **Description:** Designed a dashboard showcasing the segmentation of customers based on Recency, Frequency, and Monetary value, providing actionable insights for targeted marketing.
-- **Skills Used:** Python, pandas, Power BI
-- **Dashboard:** Interactive visualizations to understand customer behaviors.
-
-### 7. [Yelp Restaurant Data Analysis Project](https://github.com/developer-arbaz/Yelp-Restaurant-Data-Analysis-Project.git)
+### 6. [Yelp Restaurant Data Analysis Project](https://github.com/developer-arbaz/Yelp-Restaurant-Data-Analysis-Project.git)
 - **Description:** Analyzed Yelp restaurant data to identify key trends in customer reviews, ratings, and popular cuisines, helping businesses understand performance and customer preferences across locations.
 - **Skills Used:** Python, pandas, Matplotlib, Seaborn, Power BI
 - **Dashboard:** Visual insights on top-rated restaurants, most-reviewed categories, and city-wise restaurant performance.
