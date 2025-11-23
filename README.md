@@ -18,27 +18,32 @@ Here are some of the projects that showcase my skills and expertise:
 - **Skills Used:** SQL, Data Analysis, Visualization
 - **Dashboard:** Interactive SQL-based visualizations on audience metrics.
 
-### 2. [Mobile Sales Dashboard](https://github.com/developer-arbaz/mobile-sales-dashboard)
-- **Description:** Created an end-to-end Power BI dashboard for mobile sales, focusing on measures, data modeling, and insights.
-- **Skills Used:** Power BI, Data Cleaning, DAX
-- **Dashboard:** Dynamic dashboards highlighting sales trends and revenue performance.
+### 2. [Finance Data Analysis & Loan Classification Model](https://github.com/developer-arbaz/Finance_Data_Analysis_-_Loan_Classification_odel.git)
+- **Description:** Developed a complete mobile sales analysis workflow using Python and Excel to clean, process, and analyze sales data.
+- **Skills Used:** Python (pandas, NumPy), Excel (formulas, pivot tables), Data Cleaning
+- **Outcome:** Identified key sales patterns, revenue trends, and performance insights through automated Python analysis.
 
 ### 3. [RFM Customer Segmentation Dashboard](https://github.com/developer-arbaz/Customer-Segmentation--RFM_Analysis_Python.git)
 - **Description:** Performed RFM analysis to identify valuable customer segments and create targeted marketing strategies.
 - **Skills Used:** Python (pandas, NumPy), Data Visualization
 - **Dashboard:** Visualized customer behavior and purchasing patterns with Python.
 
-### 4. [Ola Data Analysis](https://github.com/developer-arbaz/ola-analysis)
+### 4. [Mobile Sales Dashboard](https://github.com/developer-arbaz/mobile-sales-dashboard)
+- **Description:** Created an end-to-end Power BI dashboard for mobile sales, focusing on measures, data modeling, and insights.
+- **Skills Used:** Power BI, Data Cleaning, DAX
+- **Dashboard:** Dynamic dashboards highlighting sales trends and revenue performance.
+
+### 5. [Ola Data Analysis](https://github.com/developer-arbaz/ola-analysis)
 - **Description:** Conducted SQL-based data analysis for ride statistics, cancellations, and customer behavior, and created a Power BI dashboard.
 - **Skills Used:** SQL, Power BI, Data Analysis
 - **Dashboard:** Comprehensive Power BI dashboards for ride volume and booking trends.
 
-### 5. [Apollo Hospitals Dashboard](https://github.com/developer-arbaz/Apollo_Hospitals-Deshboard.git)
+### 6. [Apollo Hospitals Dashboard](https://github.com/developer-arbaz/Apollo_Hospitals-Deshboard.git)
 - **Description:** Developed a Power BI dashboard analyzing patient data, billing information, and bed occupancy rates.
 - **Skills Used:** Power BI, Data Modeling
 - **Dashboard:** Detailed insights into patient demographics and billing efficiency.
 
-### 6. [Yelp Restaurant Data Analysis Project](https://github.com/developer-arbaz/Yelp-Restaurant-Data-Analysis-Project.git)
+### 7. [Yelp Restaurant Data Analysis Project](https://github.com/developer-arbaz/Yelp-Restaurant-Data-Analysis-Project.git)
 - **Description:** Analyzed Yelp restaurant data to identify key trends in customer reviews, ratings, and popular cuisines, helping businesses understand performance and customer preferences across locations.
 - **Skills Used:** Python, pandas, Matplotlib, Seaborn, Power BI
 - **Dashboard:** Visual insights on top-rated restaurants, most-reviewed categories, and city-wise restaurant performance.
